@@ -1,1 +1,1 @@
-Configuration settings
+Configuration settings.
